@@ -9,11 +9,11 @@ function Component() {
     let newCount = count + 1;
     setCount(newCount);
     if (newCount == 1) {
-      setColor("red");
+      setColor("green");
     } else if (newCount == 2) {
       setColor("blue");
     } else if (newCount == 3) {
-      setColor("green");
+      setColor("red");
     } else {
       setColor("white");
       setCount(0);
