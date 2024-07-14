@@ -1,18 +1,15 @@
-.Header{
+.Header {
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
   align-items: center;
   margin-top: 200x;
-  
-  
 }
 
-
-.component{
+.component {
   display: flex;
-  width:200px;
-  height:200px;
+  width: 200px;
+  height: 200px;
   justify-content: center;
   align-items: center;
   border: 1px solid black;
@@ -20,8 +17,8 @@
 
 .component-2 {
   display: flex;
-  width:200px;
-  height:200px;
+  width: 200px;
+  height: 200px;
   justify-content: center;
   align-items: center;
   border: 1px solid black;

@@ -20,8 +20,6 @@ function Component() {
     }
   }
 
-
-
   return (
     <>
       <div
